@@ -7,4 +7,4 @@ Well, let's find out! In this project, you get to explore patterns and trends in
 I have used the following: 
 * Data Manipulation with pandas
 * Intermediate Data Visualization with Seaborn
-The dataset used in this project is from The Nobel Foundation on Kaggle.
+- The dataset used in this project is from The Nobel Foundation on Kaggle.
